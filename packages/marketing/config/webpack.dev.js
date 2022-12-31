@@ -11,6 +11,9 @@ const devConfig = {
     port: 8081,
     historyApiFallback: true
   },
+  output: {
+    publicPath: 'http://localhost:8081/'
+  },
   plugins: [
     new ModuleFederationPlugin({
       name: 'marketing',
