@@ -1,3 +1,5 @@
+[![deploy-auth](https://github.com/akshit-sehgal/microfrontend-saas/actions/workflows/auth.yml/badge.svg?branch=main)](https://github.com/akshit-sehgal/microfrontend-saas/actions/workflows/auth.yml) [![deploy-marketing](https://github.com/akshit-sehgal/microfrontend-saas/actions/workflows/marketing.yml/badge.svg?branch=main)](https://github.com/akshit-sehgal/microfrontend-saas/actions/workflows/marketing.yml) [![deploy-dashboard](https://github.com/akshit-sehgal/microfrontend-saas/actions/workflows/dashboard.yml/badge.svg?branch=main)](https://github.com/akshit-sehgal/microfrontend-saas/actions/workflows/dashboard.yml) [![deploy-container](https://github.com/akshit-sehgal/microfrontend-saas/actions/workflows/container.yml/badge.svg?branch=main)](https://github.com/akshit-sehgal/microfrontend-saas/actions/workflows/container.yml)
+
 Simple Microfrontend based app
 
 Visit: https://d2gscsz99ufl3a.cloudfront.net/
