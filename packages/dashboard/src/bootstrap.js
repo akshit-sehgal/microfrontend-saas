@@ -1,5 +1,4 @@
 import { createApp } from 'vue';
-
 import Dashboard from './components/Dashboard.vue';
 
 const mount = (element) => {
